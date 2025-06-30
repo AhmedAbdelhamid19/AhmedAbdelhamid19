@@ -31,7 +31,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   <a href="https://github.com/AhmedAbdelhamid19" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+    <img src="https://img.icons8.com/ios-glyphs/90/github.png" width="40" />
   </a>
   <a href="https://t.me/Ahmed2002193" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" />
