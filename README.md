@@ -86,15 +86,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AhmedAbdelhamid19&theme=gruvbox&row=1&column=5" />
 </p>
-
----
-
-## 💡 Fun Dev Loop
-
-```js
-(function repeat() {
-  eat();
-  sleep();
-  code();
-  repeat();
-})();
