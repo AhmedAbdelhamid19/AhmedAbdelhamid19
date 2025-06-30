@@ -17,6 +17,7 @@
 - 🔐 Experienced with **authentication systems** like JWT and secure backend APIs
 - 🧩 Focused on writing clean architecture and solving problems efficiently
 - 🧱 Familiar with system design fundamentals — scalability, REST principles, database sharding, caching, load balancing  
+- ⚙️ Familiar with **Microservice Architecture**: service-to-service communication, API gateways, event-driven design
 - 🧠 Problem Solver: Solved **2500+ competitive programming problems**
 - 🏆 Codeforces: [AhmedAbdelhamid19](https://codeforces.com/profile/AhmedAbdelhamid19)
 - 📫 Reach me at: **ahmedaways200219@gmail.com**
@@ -54,16 +55,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
 </p>
 
-### 🗄️ Databases & ORM
+### 🗄️ Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
 </p>
 
 ### ☁️ Cloud & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
