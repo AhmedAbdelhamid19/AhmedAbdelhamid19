@@ -5,6 +5,10 @@
   Passionate about backend development, database internals, and cloud technologies. I enjoy solving real-world problems and building clean, maintainable software.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedAbdelhamid19&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
+</p>
+
 ---
 
 - 🌱 Currently deepening my skills in **.NET Core**, **C#**, and **Web Development**
@@ -12,6 +16,8 @@
 - 🧠 Learning the internals of **databases** (indexing, logging, query planning, storage engines)
 - 🔐 Experienced with **authentication systems** like JWT and secure backend APIs
 - 🧩 Focused on writing clean architecture and solving problems efficiently
+- 🧠 Problem Solver: Solved **2500+ competitive programming problems**
+- 🏆 Codeforces: [AhmedAbdelhamid19](https://codeforces.com/profile/AhmedAbdelhamid19)
 - 📫 Reach me at: **ahmedaways200219@gmail.com**
 
 ---
@@ -28,6 +34,9 @@
   <a href="https://www.linkedin.com/in/ahmed-abdelhamid-777083257/" target="_blank">
     <img alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
+  <a href="https://codeforces.com/profile/AhmedAbdelhamid19" target="_blank">
+    <img alt="Codeforces" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  </a>
 </p>
 
 ---
@@ -37,6 +46,7 @@
 ### 💬 Languages & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
@@ -52,9 +62,9 @@
 
 ### ☁️ Cloud & Tools
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
 </p>
 
 ---
