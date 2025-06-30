@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedAbdelhamid19&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AhmedAbdelhamid19&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
 </p>
 
 ---
@@ -26,56 +26,56 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="mailto:ahmedaways200219@gmail.com" target="_blank">
-    <img alt="Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <a href="https://www.linkedin.com/in/ahmed-abdelhamid-777083257/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  <a href="https://github.com/AhmedAbdelhamid19" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
   <a href="https://t.me/ahmedabdelhamid19" target="_blank">
-    <img alt="Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-abdelhamid-777083257/" target="_blank">
-    <img alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://codeforces.com/profile/AhmedAbdelhamid19" target="_blank">
-    <img alt="Codeforces" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  <a href="mailto:ahmedaways200219@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
   </a>
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ Tech Stack
 
 ### 💬 Languages & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
 </p>
 
 ### 🗄️ Databases & ORM
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 </p>
 
 ### ☁️ Cloud & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdelhamid19&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdelhamid19&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdelhamid19&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdelhamid19&layout=compact&theme=radical" />
 </p>
 
 ---
