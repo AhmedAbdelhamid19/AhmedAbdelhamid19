@@ -47,20 +47,33 @@
 ## ⚙️ Tech Stack
 
 ### 💬 Languages & Frameworks
-<p align="left"> <!-- Languages --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" /> <!-- Frameworks --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET / ASP.NET Core" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" title="jQuery" />
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET / ASP.NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" title="jQuery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Framework" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" title="Maven" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
 </p>
 
 ### ☁️ Cloud & Tools
 <p align="left"> <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS" /> <img src="https://img.icons8.com/fluency/48/azure-1.png" width="40" title="Microsoft Azure" />
   <img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub Actions" />
-<img src="https://img.icons8.com/color/48/git.png" width="40" title="Git" /> <img src="https://img.icons8.com/ios-glyphs/90/github.png" width="40" title="GitHub" /> <img src="https://img.icons8.com/fluency/48/postman-api.png" width="40" title="Postman" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker (learning)" /> </p>
+<img src="https://img.icons8.com/color/48/git.png" width="40" title="Git" /> <img src="https://img.icons8.com/ios-glyphs/90/github.png" width="40" title="GitHub" /> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker (learning)" /> </p>
 ---
 
 ## 📊 GitHub Stats
@@ -68,7 +81,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdelhamid19&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdelhamid19&layout=compact&langs_count=6&hide=scss,tex,shell,batch,cmake,makefile&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdelhamid19&layout=compact&langs_count=6&hide=html,scss,tex,shell,batch,cmake,makefile&theme=radical" />
+
 
 </p>
 
