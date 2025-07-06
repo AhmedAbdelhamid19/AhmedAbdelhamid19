@@ -69,7 +69,7 @@
 </p>
 
 ### ☁️ Cloud & Tools
-<p align="left"> <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS" /> <img src="https://img.icons8.com/fluency/48/azure-1.png" width="40" title="Microsoft Azure" />
+<p align="left"> <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS" /> 
   <img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub Actions" />
 <img src="https://img.icons8.com/color/48/git.png" width="40" title="Git" /> <img src="https://img.icons8.com/ios-glyphs/90/github.png" width="40" title="GitHub" /> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" />
