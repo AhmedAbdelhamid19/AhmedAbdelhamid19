@@ -19,10 +19,10 @@
 <h2 align="left">
   About Me
 </h2>
-<pre>
+<div>
 Fresh Graduate with strong foundations in core computer science fundamentals, hands-on experience in ASP.NET Core (backend) and Angular 
 (frontend). Passionate problem solver, always eager to learn and build impactful software. 
-</pre>
+</div>
 
 <h2 align="left">
   Connect with Me
@@ -92,7 +92,9 @@ Fresh Graduate with strong foundations in core computer science fundamentals, ha
 <h2 align="left">
   Competitive Programming
 </h2>
-<pre>
+<div>
 - Codeforces: [AhmedAbdelhamid19](https://codeforces.com/profile/AhmedAbdelhamid19)  
+</div>
+<div> 
 - LeetCode: (https://leetcode.com/u/ahmedabdelhamid19/)
-</pre>
+</div>
