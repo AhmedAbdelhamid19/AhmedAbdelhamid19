@@ -90,5 +90,7 @@ Fresh Graduate with strong foundations in core computer science fundamentals, ha
 <h2 align="left">
   Competitive Programming
 </h2>
+<p>
 - Codeforces: [AhmedAbdelhamid19](https://codeforces.com/profile/AhmedAbdelhamid19)  
 - LeetCode: (https://leetcode.com/u/ahmedabdelhamid19/)
+</p>
