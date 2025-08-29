@@ -19,8 +19,10 @@
 <h2 align="left">
   About Me
 </h2>
+<pre>
 Fresh Graduate with strong foundations in core computer science fundamentals, hands-on experience in ASP.NET Core (backend) and Angular 
 (frontend). Passionate problem solver, always eager to learn and build impactful software. 
+</pre>
 
 <h2 align="left">
   Connect with Me
