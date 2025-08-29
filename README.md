@@ -48,7 +48,7 @@
 <h2 align="left">
   Tech Stack
 </h2>
-<p align="left">
+<p align="center">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
@@ -64,14 +64,14 @@
 <h2 align="left">
   Databases
 </h2>
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" title="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
 </p>
 <h2 align="left">
   Cloud & Tools
 </h2>
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS" />
   <img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub Actions" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" />
