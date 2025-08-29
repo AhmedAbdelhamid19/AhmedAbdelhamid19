@@ -11,22 +11,21 @@
 
 ---
 
-- 🌱 Experienced with **.NET Core**, **C#**, and **Web Development**
-- ☁️ Confident in **Cloud Computing** concepts and practical deployment (AWS)
-- 🧠 Learning the internals of **databases** (indexing, logging, query planning, storage engines)
-- 🔐 Experienced with **authentication systems** like JWT and secure backend APIs
-- 🧩 Focused on writing clean architecture and solving problems efficiently
-- 🧱 Familiar with system design fundamentals — scalability, REST principles, database sharding, caching, load balancing  
-- ⚙️ Good with **Microservice Architecture**: service-to-service communication, API gateways, event-driven design
-- 🧠 Problem Solver: Solved **2500+ competitive programming problems** in Codeforces, Leetcode and other platforms
-- 🏆 Codeforces: [AhmedAbdelhamid19](https://codeforces.com/profile/AhmedAbdelhamid19)
-- 📫 Reach me at: **ahmedaways200219@gmail.com**
+- Experienced with **.NET Core**, **C#**, and **Web Development**
+- Learning the internals of **databases** (indexing, logging, query planning, storage engines)
+- Experienced with **authentication systems** like JWT and secure backend APIs
+- Focused on writing clean architecture and solving problems efficiently
+- Familiar with system design fundamentals — scalability, REST principles, database sharding, caching, load balancing  
+- Good with **Microservice Architecture**: service-to-service communication, API gateways, event-driven design
+- Problem Solver: Solved **2500+ competitive programming problems** in Codeforces, Leetcode and other platforms
+- Codeforces: [AhmedAbdelhamid19](https://codeforces.com/profile/AhmedAbdelhamid19)
+- Reach me at: **ahmedaways200219@gmail.com**
 
 ---
 
 ## 🔗 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmed-abdelhamid-777083257/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
@@ -41,7 +40,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+Tech Stack
 
 ### 💬 Languages & Frameworks
 <p align="left">
