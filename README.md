@@ -19,15 +19,8 @@
 <h2 align="left">
   About Me
 </h2>
-- Experienced with **.NET Core**, **C#**, and **Web Development**
-- Learning internals of **databases**: indexing, logging, query planning, storage engines
-- Built secure backends with **JWT**, validation, and clean architecture
-- Familiar with **system design**: scalability, caching, sharding, load balancing
-- **Microservices**: API gateways, service-to-service comms, event-driven patterns
-- Competitive programming: **2500+ problems** (Codeforces, LeetCode, others)
-- Codeforces: [AhmedAbdelhamid19](https://codeforces.com/profile/AhmedAbdelhamid19)
-- Reach me: **ahmedaways200219@gmail.com**
-
+Fresh Graduate with strong foundations in core computer science fundamentals, hands-on experience in ASP.NET Core (backend) and Angular 
+(frontend). Passionate problem solver, always eager to learn and build impactful software. 
 ---
 <h2 align="left">
   Connect with Me
@@ -79,15 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio" />
 </p>
-
----
-<h2 align="left">
-  Featured Projects
-</h2>
-- SocialNetwork (ASP.NET + Angular): Authentication, JWT, EF Core, clean architecture  
-  `https://github.com/AhmedAbdelhamid19/SocialNetwork`
-- Add more: Replace with your best 2–3 repos highlighting backend skills
-
 ---
 <h2 align="left">
   GitHub Stats
@@ -107,18 +91,4 @@
   Competitive Programming
 </h2>
 - Codeforces: [AhmedAbdelhamid19](https://codeforces.com/profile/AhmedAbdelhamid19)  
-- LeetCode: Add your profile link here
-
----
-<h2 align="left">
-  Contact
-</h2>
-- Email: **ahmedaways200219@gmail.com**
-- Telegram: **@Ahmed2002193**  
-- LinkedIn: [Ahmed Abdelhamid](https://www.linkedin.com/in/ahmed-abdelhamid-777083257/)
-
-<!-- Tips:
-- Replace any placeholder links with the correct repo URLs.
-- If any images fail to load due to rate limits, refresh or fork the badge services.
-- Keep featured projects tight (2–4) and results-focused.
--->
+- LeetCode: (https://leetcode.com/u/ahmedabdelhamid19/)
