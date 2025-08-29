@@ -82,14 +82,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdelhamid19&show_icons=true&theme=radical" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdelhamid19&layout=compact&langs_count=6&hide=html,scss,tex,shell,batch,cmake,makefile&theme=radical" />
-
-
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAbdelhamid19&theme=gruvbox&row=1&column=5" />
-</p>
