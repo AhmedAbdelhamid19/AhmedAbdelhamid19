@@ -16,8 +16,9 @@
 </p>
 
 ---
-
-### About Me
+<h2 align="center">
+  About Me
+</h2>
 - Experienced with **.NET Core**, **C#**, and **Web Development**
 - Learning internals of **databases**: indexing, logging, query planning, storage engines
 - Built secure backends with **JWT**, validation, and clean architecture
@@ -30,7 +31,7 @@
 ---
 <h2 align="center">
   Connect with Me
-</h1>
+</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-abdelhamid-777083257/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
@@ -44,8 +45,9 @@
 </p>
 
 ---
-
-### 🧰 Tech Stack
+<h2 align="center">
+  Tech Stack
+</h2>
 <p align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
@@ -59,14 +61,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" title="jQuery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" title="Maven" />
 </p>
-
-#### 🗄️ Databases
+<h2 align="center">
+  Databases
+</h2>
 <p align="left">
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" title="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
 </p>
-
-#### ☁️ Cloud & Tools
+<h2 align="center">
+  Cloud & Tools
+</h2>
 <p align="left">
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS" />
   <img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub Actions" />
@@ -77,15 +81,17 @@
 </p>
 
 ---
-
-### 🧩 Featured Projects
+<h2 align="center">
+  Featured Projects
+</h2>
 - SocialNetwork (ASP.NET + Angular): Authentication, JWT, EF Core, clean architecture  
   `https://github.com/AhmedAbdelhamid19/SocialNetwork`
 - Add more: Replace with your best 2–3 repos highlighting backend skills
 
 ---
-
-### 📊 GitHub Stats
+<h2 align="center">
+  GitHub Stats
+</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdelhamid19&show_icons=true&theme=radical" alt="stats" />
   <br/>
@@ -105,14 +111,16 @@
 </p>
 
 ---
-
-### 🏆 Competitive Programming
+<h2 align="center">
+  Competitive Programming
+</h2>
 - Codeforces: [AhmedAbdelhamid19](https://codeforces.com/profile/AhmedAbdelhamid19)  
 - LeetCode: Add your profile link here
 
 ---
-
-### 📫 Contact
+<h2 align="center">
+  Contact
+</h2>
 - Email: **ahmedaways200219@gmail.com**
 - Telegram: **@Ahmed2002193**  
 - LinkedIn: [Ahmed Abdelhamid](https://www.linkedin.com/in/ahmed-abdelhamid-777083257/)
