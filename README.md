@@ -16,7 +16,7 @@
 </p>
 
 ---
-<h2 align="center">
+<h2 align="left">
   About Me
 </h2>
 - Experienced with **.NET Core**, **C#**, and **Web Development**
@@ -29,7 +29,7 @@
 - Reach me: **ahmedaways200219@gmail.com**
 
 ---
-<h2 align="center">
+<h2 align="left">
   Connect with Me
 </h2>
 <p align="center">
@@ -45,7 +45,7 @@
 </p>
 
 ---
-<h2 align="center">
+<h2 align="left">
   Tech Stack
 </h2>
 <p align="left">
@@ -61,14 +61,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" title="jQuery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" title="Maven" />
 </p>
-<h2 align="center">
+<h2 align="left">
   Databases
 </h2>
 <p align="left">
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" title="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
 </p>
-<h2 align="center">
+<h2 align="left">
   Cloud & Tools
 </h2>
 <p align="left">
@@ -81,7 +81,7 @@
 </p>
 
 ---
-<h2 align="center">
+<h2 align="left">
   Featured Projects
 </h2>
 - SocialNetwork (ASP.NET + Angular): Authentication, JWT, EF Core, clean architecture  
@@ -89,7 +89,7 @@
 - Add more: Replace with your best 2–3 repos highlighting backend skills
 
 ---
-<h2 align="center">
+<h2 align="left">
   GitHub Stats
 </h2>
 <p align="center">
@@ -99,26 +99,20 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedAbdelhamid19&theme=radical" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedAbdelhamid19&theme=radical&no-frame=true&margin-w=10" alt="trophies"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAbdelhamid19&theme=react-dark&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
-<h2 align="center">
+<h2 align="left">
   Competitive Programming
 </h2>
 - Codeforces: [AhmedAbdelhamid19](https://codeforces.com/profile/AhmedAbdelhamid19)  
 - LeetCode: Add your profile link here
 
 ---
-Contact
+<h2 align="left">
+  Contact
+</h2>
 - Email: **ahmedaways200219@gmail.com**
 - Telegram: **@Ahmed2002193**  
 - LinkedIn: [Ahmed Abdelhamid](https://www.linkedin.com/in/ahmed-abdelhamid-777083257/)
