@@ -118,9 +118,7 @@
 - LeetCode: Add your profile link here
 
 ---
-<h2 align="center">
-  Contact
-</h2>
+Contact
 - Email: **ahmedaways200219@gmail.com**
 - Telegram: **@Ahmed2002193**  
 - LinkedIn: [Ahmed Abdelhamid](https://www.linkedin.com/in/ahmed-abdelhamid-777083257/)
