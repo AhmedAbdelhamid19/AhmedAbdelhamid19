@@ -30,9 +30,6 @@
   <a href="https://www.linkedin.com/in/ahmed-abdelhamid-777083257/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
-  <a href="https://github.com/AhmedAbdelhamid19" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/90/github.png" width="40" />
-  </a>
   <a href="https://t.me/Ahmed2002193" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" />
   </a>
@@ -70,9 +67,8 @@
 
 ### ☁️ Cloud & Tools
 <p align="left"> <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS" /> 
-  <img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub Actions" />
-<img src="https://img.icons8.com/color/48/git.png" width="40" title="Git" /> <img src="https://img.icons8.com/ios-glyphs/90/github.png" width="40" title="GitHub" /> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" />
+<img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub Actions" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker (learning)" /> </p>
 ---
 
