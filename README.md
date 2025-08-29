@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - Experienced with **.NET Core**, **C#**, and **Web Development**
 - Learning internals of **databases**: indexing, logging, query planning, storage engines
 - Built secure backends with **JWT**, validation, and clean architecture
@@ -28,8 +28,9 @@
 - Reach me: **ahmedaways200219@gmail.com**
 
 ---
-
-### 🔗 Connect with Me
+<p align="center">
+  Connect with Me
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-abdelhamid-777083257/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
