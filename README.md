@@ -28,9 +28,9 @@
 - Reach me: **ahmedaways200219@gmail.com**
 
 ---
-<p align="center">
+<h2 align="center">
   Connect with Me
-</p>
+</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-abdelhamid-777083257/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" />
