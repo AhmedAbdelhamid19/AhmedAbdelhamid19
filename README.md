@@ -56,7 +56,7 @@ Fresh Graduate with strong foundations in core computer science fundamentals, ha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" title="jQuery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" title="Maven" />
-  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" title="Maven" />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" title="tailwind" />
 </p>
 <h2 align="left">
   Databases
