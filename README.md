@@ -83,10 +83,6 @@ Fresh Graduate with strong foundations in core computer science fundamentals, ha
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdelhamid19&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdelhamid19&layout=compact&langs_count=8&hide=html,scss,tex,shell,batch,cmake,makefile&theme=radical" alt="top langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAbdelhamid19&theme=react-dark&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
