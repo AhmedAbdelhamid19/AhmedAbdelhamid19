@@ -85,14 +85,3 @@ Fresh Graduate with strong foundations in core computer science fundamentals, ha
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAbdelhamid19&theme=react-dark&area=true&hide_border=true" alt="activity graph"/>
 </p>
-
----
-<h2 align="left">
-  Competitive Programming
-</h2>
-<div>
-- Codeforces: [AhmedAbdelhamid19](https://codeforces.com/profile/AhmedAbdelhamid19)  
-</div>
-<div> 
-- LeetCode: (https://leetcode.com/u/ahmedabdelhamid19/)
-</div>
