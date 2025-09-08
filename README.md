@@ -20,8 +20,10 @@
   About Me
 </h2>
 <div>
-Fresh Graduate with strong foundations in core computer science fundamentals, hands-on experience in ASP.NET Core (backend) and Angular 
-(frontend). Passionate problem solver, always eager to learn and build impactful software. 
+Fresh Graduate with strong foundations in computer science and hands-on experience in ASP.NET Core (Web API & MVC), Entity 
+Framework, LINQ, and Angular. Solid background in OOP, SOLID principles, design patterns, and competitive programming (ECPC Finalist). 
+Experienced in data structures, algorithms, and databases (SQL Server, MongoDB). Quick learner and problem solver, eager to contribute 
+to impactful real-world projects. 
 </div>
 
 <h2 align="left">
