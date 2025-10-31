@@ -89,5 +89,5 @@ to impactful real-world projects.
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AhmedAbdelhamid19&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedAbdelhamid19&hide=scss&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedAbdelhamid19&hide=scss,html,css&layout=compact&theme=dark&hide_border=true" />
 </p>
