@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+%7C+Aspiring+Software+Engineer;Full+Stack+Developer+%7C+ASP+.NET+Core+%7C+Angular;SQL+Server%7C+MongoDB+%7C+Database+Design+%7C+Database+internals;Cloud+%7C+AWS+%7C+Azur;Competitive+Programmer+%7C+2500%2B+Problems+Solved+%7C+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+%7C+Aspiring+Software+Engineer;Full+Stack+Developer+%7C+ASP+.NET+Core+%7C+Angular;SQL+Server%7C+MongoDB+%7C+Database+Design+%7C+Database+internals;Cloud+%7C+AWS+%7C+Azur+%7C+Docker;Competitive+Programmer+%7C+2500%2B+Problems+Solved+%7C+Expert" alt="Typing SVG" />
 </p>
 
 ---
