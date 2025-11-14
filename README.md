@@ -20,10 +20,15 @@
   About Me
 </h2>
 <div>
-Fresh Graduate with strong foundations in computer science and hands-on experience in ASP.NET Core (Web API & MVC), Entity 
-Framework, LINQ, and Angular. Solid background in OOP, SOLID principles, design patterns, and competitive programming (ECPC Finalist). 
-Experienced in data structures, algorithms, and databases (SQL Server, MongoDB). Quick learner and problem solver, eager to contribute 
-to impactful real-world projects. 
+Hi, my name is Ahmed. I’m a recent Computer Science graduate from Cairo University (FCAI). I consider myself a software engineer with a strong foundation in core computer science concepts. I’m skilled in OOP, SOLID principles, design patterns, and data structures & algorithms. I enjoy competitive programming and problem-solving, having participated in ECPC three times and qualified as an ECPC Finalist.
+
+In web development, I have strong experience in backend development using ASP.NET Core Web API, MVC, Entity Framework, LINQ, and SignalR, with exposure to other frameworks like Spring Boot and Django. On the frontend, I work with Angular, TypeScript, JavaScript, HTML, CSS, and modern styling frameworks such as Tailwind and DaisyUI.
+
+In the database field, I have a solid foundation in database design and internals, working with relational databases like SQL Server as well as document-based NoSQL databases like MongoDB.
+
+I also have hands-on experience in cloud and DevOps. I’ve launched EC2 instances, managed S3 buckets, containerized applications using Docker, and implemented CI/CD pipelines with GitHub Actions. I’m curious by nature and enjoy understanding the bigger picture of how systems work behind the scenes.
+
+Through my projects, I’ve taken the full journey from gathering requirements and designing databases to backend and frontend implementation and finally deploying and managing applications using CI/CD pipelines. My main strengths are problem solving, a competitive mindset, and continuous learning, which I believe are essential skills for every software engineer.
 </div>
 
 <h2 align="left">
