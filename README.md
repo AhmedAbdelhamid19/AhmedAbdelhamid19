@@ -88,7 +88,5 @@ Through my projects, I’ve taken the full journey from gathering requirements a
   GitHub Stats
 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdelhamid19&show_icons=true&theme=radical" alt="stats" />
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedAbdelhamid19&theme=react-dark&area=true&hide_border=true" alt="activity graph"/>
 </p>
