@@ -22,6 +22,7 @@
 <div>
 Hi, I’m a recent Computer Science graduate from Cairo University (FCAI). I introduce myself as a software engineer with a strong foundation in core computer science concepts. I’m skilled in OOP, SOLID principles, design patterns, and data structures & algorithms. I enjoy competitive programming and problem-solving, having participated in ECPC three times and qualified as an ECPC Finalist.
 
+
 In web development, I have strong experience in backend development using ASP.NET Core Web API, MVC, Entity Framework, LINQ, and SignalR, with exposure to other frameworks like Spring Boot and Django. On the frontend, I work with Angular, TypeScript, JavaScript, HTML, CSS, and modern styling frameworks such as Tailwind and DaisyUI.
 
 In the database field, I have a solid foundation in database design and internals, working with relational databases like SQL Server as well as document-based NoSQL databases like MongoDB.
